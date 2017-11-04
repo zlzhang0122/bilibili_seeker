@@ -6,3 +6,4 @@ aid(视频编号)、view(播放量)、danmaku(弹幕数)、reply(评论数)、fa
 从效果上看，爬取效率还是挺高的。
 可以在此基础上对数拓进行处理，包括获取播放量前十的视屏，评论量前十的视频等。
 观看视频的链接为 https://www.bilibili.com/video/av + aid。
+(本程序使用python2.7版本完成)
